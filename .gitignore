@@ -1,3 +1,4 @@
+
 # Libraries
 *.lvlibp
 *.llb
@@ -15,3 +16,12 @@
 *.aliases
 *.lvlps
 .cache/
+
+# LabVIEW-specific ignores
+*.aliases
+*.lvlps
+*.evs
+*.pce
+*.vcregs
+/builds/
+
