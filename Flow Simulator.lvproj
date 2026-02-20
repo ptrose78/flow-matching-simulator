@@ -35,6 +35,7 @@
 		<Item Name="Constants.ctl" Type="VI" URL="../Constants.ctl"/>
 		<Item Name="Data_Fit.vi" Type="VI" URL="../Data_Fit.vi"/>
 		<Item Name="Density_Calc.vi" Type="VI" URL="../Density_Calc.vi"/>
+		<Item Name="Designing.vi" Type="VI" URL="../Designing.vi"/>
 		<Item Name="Diameter_To_Area_Calc.vi" Type="VI" URL="../Diameter_To_Area_Calc.vi"/>
 		<Item Name="Final_Simulator_Run.vi" Type="VI" URL="../Final_Simulator_Run.vi"/>
 		<Item Name="Graph_Data.vi" Type="VI" URL="../Graph_Data.vi"/>
