@@ -21,6 +21,7 @@
 		<Item Name="Final_Simulator_Run.vi" Type="VI" URL="../Final_Simulator_Run.vi"/>
 		<Item Name="Graph_Data.vi" Type="VI" URL="../Graph_Data.vi"/>
 		<Item Name="Optimizer.vi" Type="VI" URL="../Optimizer.vi"/>
+		<Item Name="State_Machine_Steps.ctl" Type="VI" URL="../State_Machine_Steps.ctl"/>
 		<Item Name="Tuners.ctl" Type="VI" URL="../Tuners.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
