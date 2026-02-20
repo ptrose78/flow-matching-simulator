@@ -12,6 +12,24 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Acquisition" Type="Folder" URL="../Acquisition">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
+		<Item Name="controls" Type="Folder" URL="../controls">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
+		<Item Name="documentation" Type="Folder" URL="../documentation">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
+		<Item Name="Logging" Type="Folder" URL="../Logging">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
+		<Item Name="Settings" Type="Folder" URL="../Settings">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
+		<Item Name="support" Type="Folder" URL="../support">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="Airflow_Simulator_Main.vi" Type="VI" URL="../Airflow_Simulator_Main.vi"/>
 		<Item Name="Check_Input.vi" Type="VI" URL="../Check_Input.vi"/>
 		<Item Name="Constants.ctl" Type="VI" URL="../Constants.ctl"/>
