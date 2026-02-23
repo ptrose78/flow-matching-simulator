@@ -32,7 +32,6 @@
 		</Item>
 		<Item Name="Airflow_Simulator_Main.vi" Type="VI" URL="../Airflow_Simulator_Main.vi"/>
 		<Item Name="Check_Input.vi" Type="VI" URL="../Check_Input.vi"/>
-		<Item Name="Constants.ctl" Type="VI" URL="../Constants.ctl"/>
 		<Item Name="Data_Fit.vi" Type="VI" URL="../Data_Fit.vi"/>
 		<Item Name="Density_Calc.vi" Type="VI" URL="../Density_Calc.vi"/>
 		<Item Name="Designing.vi" Type="VI" URL="../Designing.vi"/>
@@ -40,8 +39,7 @@
 		<Item Name="Final_Simulator_Run.vi" Type="VI" URL="../Final_Simulator_Run.vi"/>
 		<Item Name="Graph_Data.vi" Type="VI" URL="../Graph_Data.vi"/>
 		<Item Name="Optimizer.vi" Type="VI" URL="../Optimizer.vi"/>
-		<Item Name="State_Machine_Steps.ctl" Type="VI" URL="../State_Machine_Steps.ctl"/>
-		<Item Name="Tuners.ctl" Type="VI" URL="../Tuners.ctl"/>
+		<Item Name="Store Ctl Refs.vi" Type="VI" URL="../Store Ctl Refs.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
