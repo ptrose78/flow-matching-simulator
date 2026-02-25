@@ -37,6 +37,7 @@
 		<Item Name="Designing Loop Enum.ctl" Type="VI" URL="../Designing Loop Enum.ctl"/>
 		<Item Name="Designing Message Loop.vi" Type="VI" URL="../Designing Message Loop.vi"/>
 		<Item Name="Diameter_To_Area_Calc.vi" Type="VI" URL="../Diameter_To_Area_Calc.vi"/>
+		<Item Name="Display Message Loop.vi" Type="VI" URL="../Display Message Loop.vi"/>
 		<Item Name="Final_Simulator_Run.vi" Type="VI" URL="../Final_Simulator_Run.vi"/>
 		<Item Name="Graph_Data.vi" Type="VI" URL="../Graph_Data.vi"/>
 		<Item Name="Optimizer.vi" Type="VI" URL="../Optimizer.vi"/>
