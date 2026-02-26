@@ -33,9 +33,8 @@
 		<Item Name="Airflow_Simulator_Main.vi" Type="VI" URL="../Airflow_Simulator_Main.vi"/>
 		<Item Name="Check_Input.vi" Type="VI" URL="../Check_Input.vi"/>
 		<Item Name="Data_Fit.vi" Type="VI" URL="../Data_Fit.vi"/>
+		<Item Name="Database Insert.vi" Type="VI" URL="../Database Insert.vi"/>
 		<Item Name="Density_Calc.vi" Type="VI" URL="../Density_Calc.vi"/>
-		<Item Name="Design_Results.ctl" Type="VI" URL="../Design_Results.ctl"/>
-		<Item Name="Designing Loop Enum.ctl" Type="VI" URL="../Designing Loop Enum.ctl"/>
 		<Item Name="Designing Message Loop.vi" Type="VI" URL="../Designing Message Loop.vi"/>
 		<Item Name="Diameter_To_Area_Calc.vi" Type="VI" URL="../Diameter_To_Area_Calc.vi"/>
 		<Item Name="Display Message Loop.vi" Type="VI" URL="../Display Message Loop.vi"/>
