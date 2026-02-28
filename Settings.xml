@@ -1,35 +1,62 @@
-<?xml version='1.0' standalone='yes' ?>
 <LVData xmlns="http://www.ni.com/LVData">
 <Version>25.3.3f3</Version>
 <Cluster>
-<Name>Settings in</Name>
+<Name>Settings</Name>
 <NumElts>2</NumElts>
 <Cluster>
-<Name>Hardware Configuration</Name>
-<NumElts>2</NumElts>
-<String>
-<Name>HW Refnum &lt;Replace Me&gt;</Name>
-<Val></Val>
-</String>
-<EW>
-<Name>Signal Type &lt;Replace Me&gt;</Name>
-<Choice>Sine Wave</Choice>
-<Choice>Square with Noise</Choice>
-<Val>0</Val>
-</EW>
+    <Name>Acquisition Configuration</Name>
+    <NumElts>3</NumElts>
+    <String>
+        <Name>HW_Refnum</Name>
+        <Val>Simulated_DAQ_01</Val>
+    </String>
+    <EW>
+        <Name>Signal Type</Name>
+        <Choice>Sine Wave</Choice>
+        <Choice>Square with Noise</Choice>
+        <Val>0</Val>
+    </EW>
+<Array>
+<Name>Flow_Rates</Name>
+<Dimsize>6</Dimsize>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.50</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>1.00</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>1.50</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>2.00</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>2.50</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>3.00</Val>
+</DBL>
+</Array>
 </Cluster>
 <Cluster>
-<Name>Logging Configuration</Name>
-<NumElts>2</NumElts>
-<Path>
-<Name>Log File Base Path</Name>
-<Val>C:\Users\ptros\OneDrive\Documents\LabVIEW Data\Logged Data.tdms</Val>
-</Path>
-<Refnum>
-<Name>TDMS File Reference</Name>
-<RefKind>TDMS File</RefKind>
-<Val>0x00000000</Val>
-</Refnum>
+    <Name>Logging Configuration</Name>
+    <NumElts>2</NumElts>
+    <Path>
+        <Name>Log File Base Path</Name>
+        <Val>C:\Users\ptros\OneDrive\Documents\LabVIEW Data\Logged Data.tdms</Val>
+    </Path>
+    <Refnum>
+        <Name>TDMS File Reference</Name>
+        <RefKind>TDMS File</RefKind>
+        <Val>0x00000000</Val>
+    </Refnum>
 </Cluster>
 </Cluster>
 </LVData>
