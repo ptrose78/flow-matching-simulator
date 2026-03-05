@@ -31,6 +31,7 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Airflow_Simulator_Main.vi" Type="VI" URL="../Airflow_Simulator_Main.vi"/>
+		<Item Name="Change_Graph_Scale_To_Log_vs_Log.vi" Type="VI" URL="../Change_Graph_Scale_To_Log_vs_Log.vi"/>
 		<Item Name="Check_Input.vi" Type="VI" URL="../Check_Input.vi"/>
 		<Item Name="Data_Fit.vi" Type="VI" URL="../Data_Fit.vi"/>
 		<Item Name="Database Message Loop.vi" Type="VI" URL="../Database Message Loop.vi"/>
